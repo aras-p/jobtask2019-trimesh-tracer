@@ -1,3 +1,6 @@
+Note: obsolete! Moved here: https://github.com/aras-p/ToyMeshPathTracer
+
+
 # Interview task/assignment: speed up a simple path tracer
 
 This project contains a simple triangle mesh path tracer implemented in C++.
